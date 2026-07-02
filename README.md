@@ -12,7 +12,7 @@ HyperAlpha is a sub-millisecond, non-custodial automated execution terminal buil
 *   **📡 Command Center (X / Twitter)**: [@HyperAlphaOrg](https://x.com/HyperAlphaOrg)
 *   **💬 Quant Intel Group (Telegram)**: [HyperAlpha Telegram Daemon](https://t.me/hyperalphaorg)
 *   **📰 Institutional Thesis (Medium)**: [HyperAlpha Research Hub](https://medium.com/@HyperAlpha)
-*   **🌐 Decentralized Newsletter (Paragraph)**: [HyperAlpha on Paragraph](https://paragraph.xyz/@hyperalpha)
+*   **🌐 Decentralized Newsletter (Paragraph)**: [HyperAlpha on Paragraph](https://paragraph.com/dashboard/@scopefi@outlook.com)
 
 ---
 
