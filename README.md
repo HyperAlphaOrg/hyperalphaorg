@@ -4,7 +4,15 @@
 
 HyperAlpha is a sub-millisecond, non-custodial automated execution terminal built natively on top of the **Hyperliquid Layer-1 ledger**. By intercepting chain-level order books and liquidation flows, HyperAlpha abstracts emotional retail behavior and legacy copy-trading latency into a systematic, programmable programmatic edge.
 
-[🛸 Boot the Terminal](https://app.hyperalpha.org) | [📡 Command Center (X)](https://x.com/HyperAlphaOrg) | [💬 Telegram Intel Group](https://t.me/hyperalphaorg) | [📰 Institutional Thesis (Medium)](https://medium.com/@HyperAlpha)
+---
+
+## 📡 Official Command Matrix / 官方矩阵入口
+
+*   **🛸 Official Terminal (官网)**: [app.hyperalpha.org](https://app.hyperalpha.org)
+*   **📡 Command Center (X / Twitter)**: [@HyperAlphaOrg](https://x.com/HyperAlphaOrg)
+*   **💬 Quant Intel Group (Telegram)**: [HyperAlpha Telegram Daemon](https://t.me/hyperalphaorg)
+*   **📰 Institutional Thesis (Medium)**: [HyperAlpha Research Hub](https://medium.com/@HyperAlpha)
+*   **🌐 Decentralized Newsletter (Paragraph)**: [HyperAlpha on Paragraph](https://paragraph.xyz/@hyperalpha)
 
 ---
 
